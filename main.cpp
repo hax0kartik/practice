@@ -6,6 +6,7 @@ int main(){
     cout << "Hi I am Siddhant" <<endl;
     cout << "Kartik is teaching us" <<endl;
     cout << "Hi I am Rishita" <<endl;
-    cout << "Hi Rishita" <<endl;
+    cout << "Kartik is teaching us" <<endl;
+    cout << "Hi siddhant" <<endl;
     return 0;
 }
