@@ -1,9 +1,10 @@
 #include <iostream.h>
-
+using namespace std;
 
 int main(){
-    std::cout << "Hello world" << std::endl;
-    std::cout << "Hi I am Siddhant" << std::endl;
-    std::cout << "Hi I am Rishita" << std::endl;
+    cout << "Hello world" <<endl;
+    cout << "Hi I am Siddhant" <<endl;
+    cout << "Kartik is teaching us" <<endl;
+    cout << "Hi I am Rishita" <<endl;
     return 0;
 }
