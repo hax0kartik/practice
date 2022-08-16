@@ -8,5 +8,9 @@ int main(){
     cout << "Hi I am Rishita" <<endl;
     cout << "Kartik is teaching us" <<endl;
     cout << "Hi siddhant" <<endl;
+
+    int a=8,b=4;
+    int s = a-b;
+    cout << "The result is" << s;
     return 0;
 }
