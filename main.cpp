@@ -1,8 +1,9 @@
 #include <iostream.h>
-
+using namespace std;
 
 int main(){
-    std::cout << "Hello world" << std::endl;
-    std::cout << "Hi I am Siddhant" << std::endl;
+    cout << "Hello world" <<endl;
+    cout << "Hi I am Siddhant" <<endl;
+    cout << "Kartik is teaching us" <<endl;
     return 0;
 }
